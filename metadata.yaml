@@ -1,0 +1,40 @@
+_repo: Vestiges-of-the-Natural-History-of-Creation_7116
+creator:
+  author:
+    agent_name: Chambers, Robert
+    alias: Chambers, R. (Robert)
+    birthdate: 1802
+    deathdate: 1871
+    gutenberg_agent_id: '5276'
+    url: http://www.gutenberg.org/2009/agents/5276
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Chambers_%28publisher_born_1802%29
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7116'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Evolution (Biology)'
+- !lcc 'QH'
+- !lcsh 'Creation'
+tableOfContents: 'The bodies of space, their arrangements and formation -- Constituent
+  materials of the earth and of the other bodies of space -- The earth formed: era
+  of the primary rocks -- Commencement of organic life: sea plants, corals, etc. --
+  Era of the old red sandstone: fishes abundant -- Secondary rocks; era of the carboniferous
+  formation; land formed; commencement of land plants -- Era of the new red sandstone;
+  terrestrial zoology commences with reptiles; first traces of birds -- Era of the
+  oolite; commencement of mammalia -- Era of the cretaceous formation -- Era of the
+  tertiary formation: mammalia abundant -- Era of the superficial formations: commencement
+  of present species -- General considerations respecting the origin of the animated
+  tribes -- Particular considerations respecting the origin of the animated tribes
+  -- Hypothesis of the development of the vegetable and animal kingdoms -- MacLeay
+  system of animated nature; this system considered in connexion with the progress
+  of organic creation, and as indicating the natural status of man -- Early history
+  of mankind -- Mental constitution of animals -- Purpose and general condition of
+  the animated creation -- Note conclusory.'
+title: Vestiges of the Natural History of Creation
+url: http://www.gutenberg.org/ebooks/7116
