@@ -1,4 +1,8 @@
 _repo: Vestiges-of-the-Natural-History-of-Creation_7116
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chambers, Robert
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5276
     wikipedia: http://en.wikipedia.org/wiki/Robert_Chambers_%28publisher_born_1802%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7116#Vestiges-of-the-Natural-History-of-Creation
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
